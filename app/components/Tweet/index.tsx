@@ -1,6 +1,6 @@
 import { ReactElement, FC } from "react";
-import { Card } from "../Card";
-import { Avatar } from "@package/avatar";
+import { Card } from "@/packages/components/card";
+import { Avatar } from "@/packages/components/avatar";
 
 export interface TweetProp {
   body: ReactElement;
@@ -8,9 +8,9 @@ export interface TweetProp {
 
 export const Tweet: FC<TweetProp> = ({ body }) => {
   return (
-    <Card>
+    <Card className="border-b border-color">
       <Card.Body>
-        <div className="flex gap-6 p-4">
+        <div className="flex gap-6">
           <Avatar alt="" src="/avatar/emily.jpeg" />
           <p className="shrink">{body}</p>
         </div>

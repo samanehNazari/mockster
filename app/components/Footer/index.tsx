@@ -1,15 +1,15 @@
+import { FC, ReactNode } from "react";
 
-const Footer = () => {
-    return (
-        <div className="flex items-center justify-center w-full py-6 border-t border-color">
-            <div className="container flex items-center justify-between">
-                <div className="text-xs text-neutral-500">
-                    Built by @samanehNazari | ©2023. All Rights Reserved
-                </div>
-            </div>
-        </div>
-
-    )
+interface FooterProps {
+  children: ReactNode;
 }
 
-export default Footer;
+export const Footer: FC<FooterProps> = ({ children }) => {
+  return (
+    <div className="flex items-center justify-center w-full py-6 border-t border-color">
+      <div className="container flex items-center justify-between">
+        {children}
+      </div>
+    </div>
+  );
+};
