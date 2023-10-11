@@ -1,4 +1,4 @@
-import { ThemeSwitcher } from "@/packages/components/theme-switcher";
+import { ThemeSwitcher } from "@/packages/theme-switcher";
 import Link from "next/link";
 import { FC } from "react";
 import { clsx } from "clsx";
@@ -29,24 +29,22 @@ export const NavBar: FC<NavBarProps> = ({
       className={clsx(
         "top-0 z-40 w-full border-b bg-color border-color",
         { sticky: isSticky },
-        { "backdrop-blur bg-white/75": isBlur },
+        { "backdrop-blur bg-white/75": isBlur, "bg-white": !isBlur },
         className
       )}
     >
-      <div className="container flex items-center h-16 space-x-4 sm:justify-between sm:space-x-0">
+      <div className="container flex items-center h-16 space-x-4 justify-between">
         <h1 className="inline-block font-bold text-lg">
           <Link href="/">{title}</Link>
         </h1>
 
         <nav className="flex justify-between items-center">
           <ul className="flex gap-6 md:gap-10">
-            {navList.length
-              ? navList.map((item) => (
-                  <li key={item.text}>
-                    <Link href={item.href ? item.href : ""}>{item.text}</Link>
-                  </li>
-                ))
-              : null}
+            {navList?.map((item) => (
+              <li key={item.text}>
+                <Link href={item?.href ?? ""}>{item.text}</Link>
+              </li>
+            ))}
 
             {enableThemeSwitcher && (
               <li className="flex items-center">

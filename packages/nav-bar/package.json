@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "@package/header",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"

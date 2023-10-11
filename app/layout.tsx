@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { ReactNode } from "react";
 import { Footer } from "./components/Footer";
-import { NavBar } from "@/packages/components/nav-bar";
+import { NavBar } from "@package/header";
 
 export const metadata: Metadata = {
   title: "Mockster: Free Fake REST API",

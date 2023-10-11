@@ -1,4 +1,4 @@
-import { Card } from "@/packages/components/card";
+import { Card } from "@package/card";
 
 const arr = [
   { text: "Twitter", url: "/posts" },
