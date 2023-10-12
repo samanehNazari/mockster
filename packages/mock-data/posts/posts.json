@@ -5,10 +5,11 @@
     "body": "haven't been able to focus much on photography lately, but here's a lil something:)",
     "media": { "format": "image", "url": "" },
     "user": { "username": "emilyy99", "avatar": "", "name": "Emily" },
-    "like": 3,
+    "likeCount": 3,
     "share": 2,
     "createdAt": "Wed Oct 04 12:46:06 +0000 2023",
-    "commentCount": 2
+    "commentCount": 2,
+    "viewCount": 2
   },
   {
     "id": "6ec0bd7f",
@@ -16,10 +17,11 @@
     "body": "today I learned that you can repair fences in stardew directly with a new fence",
     "media": { "format": "image", "url": "" },
     "user": { "username": "3emae", "avatar": "", "name": "Emma" },
-    "like": 3,
+    "likeCount": 3,
     "share": 2,
     "createdAt": "Thu Nov 08 11:06:00 +0000 2023",
-    "commentCount": 2
+    "commentCount": 2,
+    "viewCount": 3
   },
   {
     "id": "7c0c68a2",
@@ -27,10 +29,11 @@
     "body": "Just had the most amazing cup of coffee!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "coffeelover21", "avatar": "", "name": "Alex" },
-    "like": 10,
+    "likeCount": 10,
     "share": 5,
     "createdAt": "Tue Dec 12 08:32:45 +0000 2023",
-    "commentCount": 8
+    "commentCount": 8,
+    "viewCount": 0
   },
   {
     "id": "c6eb7e24",
@@ -38,10 +41,11 @@
     "body": "Hiking with friends is always a great time!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "outdoorsygal", "avatar": "", "name": "Sarah" },
-    "like": 15,
+    "likeCount": 15,
     "share": 7,
     "createdAt": "Sat Jan 20 15:21:18 +0000 2024",
-    "commentCount": 12
+    "commentCount": 12,
+    "viewCount": 2
   },
   {
     "id": "7f6802e9",
@@ -49,10 +53,11 @@
     "body": "Working on a new painting 🎨",
     "media": { "format": "image", "url": "" },
     "user": { "username": "artistic_soul", "avatar": "", "name": "David" },
-    "like": 6,
+    "likeCount": 6,
     "share": 3,
     "createdAt": "Sun Feb 25 17:09:37 +0000 2024",
-    "commentCount": 4
+    "commentCount": 4,
+    "viewCount": 2
   },
   {
     "id": "bebd6524",
@@ -60,10 +65,11 @@
     "body": "Sunny day at the beach ☀️🌊",
     "media": { "format": "image", "url": "" },
     "user": { "username": "beachbum23", "avatar": "", "name": "Liam" },
-    "like": 12,
+    "likeCount": 12,
     "share": 8,
     "createdAt": "Mon Mar 19 10:56:52 +0000 2024",
-    "commentCount": 9
+    "commentCount": 9,
+    "viewCount": 2
   },
   {
     "id": "8821f1c3",
@@ -71,10 +77,11 @@
     "body": "Exploring new hiking trails today",
     "media": { "format": "image", "url": "" },
     "user": { "username": "naturelover88", "avatar": "", "name": "Olivia" },
-    "like": 8,
+    "likeCount": 8,
     "share": 4,
     "createdAt": "Wed Apr 04 14:38:20 +0000 2024",
-    "commentCount": 6
+    "commentCount": 6,
+    "viewCount": 2
   },
   {
     "id": "b1f5e94c",
@@ -82,10 +89,11 @@
     "body": "Trying out a new recipe for dinner tonight!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "foodie_adventures", "avatar": "", "name": "Sophia" },
-    "like": 11,
+    "likeCount": 11,
     "share": 6,
     "createdAt": "Thu May 17 18:09:08 +0000 2024",
-    "commentCount": 7
+    "commentCount": 7,
+    "viewCount": 2
   },
   {
     "id": "9372511d",
@@ -93,10 +101,11 @@
     "body": "Just finished a great workout 💪 Feeling amazing!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "fitandfab", "avatar": "", "name": "Michael" },
-    "like": 9,
+    "likeCount": 9,
     "share": 5,
     "createdAt": "Sat Jun 23 09:57:39 +0000 2024",
-    "commentCount": 4
+    "commentCount": 4,
+    "viewCount": 2
   },
   {
     "id": "b00e0a36",
@@ -104,10 +113,11 @@
     "body": "Relaxing with a good book this weekend 📚",
     "media": { "format": "image", "url": "" },
     "user": { "username": "bookworm101", "avatar": "", "name": "Isabella" },
-    "like": 14,
+    "likeCount": 14,
     "share": 7,
     "createdAt": "Mon Jul 09 16:45:55 +0000 2024",
-    "commentCount": 10
+    "commentCount": 10,
+    "viewCount": 2
   },
   {
     "id": "f7ccf02b",
@@ -115,10 +125,11 @@
     "body": "Visited a beautiful garden today 🌸",
     "media": { "format": "image", "url": "" },
     "user": { "username": "gardenlover", "avatar": "", "name": "Daniel" },
-    "like": 13,
+    "likeCount": 13,
     "share": 6,
     "createdAt": "Thu Aug 16 12:30:24 +0000 2024",
-    "commentCount": 8
+    "commentCount": 8,
+    "viewCount": 2
   },
   {
     "id": "47b51284",
@@ -126,10 +137,11 @@
     "body": "Enjoying the sunset from my balcony 🌅",
     "media": { "format": "image", "url": "" },
     "user": { "username": "sunsetchaser", "avatar": "", "name": "Ava" },
-    "like": 17,
+    "likeCount": 17,
     "share": 9,
     "createdAt": "Sat Sep 22 19:18:01 +0000 2024",
-    "commentCount": 12
+    "commentCount": 12,
+    "viewCount": 2
   },
   {
     "id": "df234c1b",
@@ -137,10 +149,11 @@
     "body": "Excited for the weekend! Any fun plans?",
     "media": { "format": "image", "url": "" },
     "user": { "username": "weekendvibes", "avatar": "", "name": "Ethan" },
-    "like": 6,
+    "likeCount": 6,
     "share": 3,
     "createdAt": "Tue Oct 30 08:12:48 +0000 2024",
-    "commentCount": 5
+    "commentCount": 5,
+    "viewCount": 2
   },
   {
     "id": "1fcb0537",
@@ -148,10 +161,11 @@
     "body": "Spent the day volunteering at the animal shelter 🐾",
     "media": { "format": "image", "url": "" },
     "user": { "username": "animallover", "avatar": "", "name": "Mia" },
-    "like": 19,
+    "likeCount": 19,
     "share": 10,
     "createdAt": "Fri Nov 30 14:29:10 +0000 2024",
-    "commentCount": 15
+    "commentCount": 15,
+    "viewCount": 2
   },
   {
     "id": "dd61e8a9",
@@ -159,10 +173,11 @@
     "body": "New year, new beginnings! 🎉",
     "media": { "format": "image", "url": "" },
     "user": { "username": "newyearnewme", "avatar": "", "name": "Nathan" },
-    "like": 22,
+    "likeCount": 22,
     "share": 12,
     "createdAt": "Sun Jan 06 10:51:22 +0000 2025",
-    "commentCount": 18
+    "commentCount": 18,
+    "viewCount": 2
   },
   {
     "id": "e1c0f2a4",
@@ -170,10 +185,11 @@
     "body": "Exploring the city streets on a rainy day ☔",
     "media": { "format": "image", "url": "" },
     "user": { "username": "cityexplorer", "avatar": "", "name": "Sophie" },
-    "like": 15,
+    "likeCount": 15,
     "share": 8,
     "createdAt": "Wed Feb 13 17:40:09 +0000 2025",
-    "commentCount": 9
+    "commentCount": 9,
+    "viewCount": 2
   },
   {
     "id": "6ea15c20",
@@ -181,10 +197,11 @@
     "body": "Celebrating my best friend's birthday!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "besties4life", "avatar": "", "name": "Lily" },
-    "like": 25,
+    "likeCount": 25,
     "share": 14,
     "createdAt": "Fri Mar 22 21:06:37 +0000 2025",
-    "commentCount": 20
+    "commentCount": 20,
+    "viewCount": 2
   },
   {
     "id": "91b3f21c",
@@ -192,10 +209,11 @@
     "body": "A day at the amusement park! 🎡🎢",
     "media": { "format": "image", "url": "" },
     "user": { "username": "thrillseeker", "avatar": "", "name": "Ben" },
-    "like": 30,
+    "likeCount": 30,
     "share": 16,
     "createdAt": "Sun Apr 14 15:55:18 +0000 2025",
-    "commentCount": 22
+    "commentCount": 22,
+    "viewCount": 2
   },
   {
     "id": "2ae761d0",
@@ -203,10 +221,11 @@
     "body": "Weekend getaway to the mountains! 🏔️",
     "media": { "format": "image", "url": "" },
     "user": { "username": "mountainlover", "avatar": "", "name": "Aiden" },
-    "like": 18,
+    "likeCount": 18,
     "share": 10,
     "createdAt": "Tue May 21 09:17:44 +0000 2025",
-    "commentCount": 14
+    "commentCount": 14,
+    "viewCount": 2
   },
   {
     "id": "15c88d26",
@@ -214,10 +233,11 @@
     "body": "Attending a music festival this weekend! 🎶",
     "media": { "format": "image", "url": "" },
     "user": { "username": "musicjunkie", "avatar": "", "name": "Ella" },
-    "like": 35,
+    "likeCount": 35,
     "share": 18,
     "createdAt": "Thu Jun 20 19:48:27 +0000 2025",
-    "commentCount": 25
+    "commentCount": 25,
+    "viewCount": 2
   },
   {
     "id": "8e12c5b1",
@@ -225,10 +245,11 @@
     "body": "First day of summer! ☀️ Time for some outdoor adventures.",
     "media": { "format": "image", "url": "" },
     "user": { "username": "summeradventures", "avatar": "", "name": "Lucas" },
-    "like": 28,
+    "likeCount": 28,
     "share": 15,
     "createdAt": "Sat Jul 27 12:09:05 +0000 2025",
-    "commentCount": 20
+    "commentCount": 20,
+    "viewCount": 2
   },
   {
     "id": "b37bfa23",
@@ -236,10 +257,11 @@
     "body": "Trying out a new hobby: painting! 🎨",
     "media": { "format": "image", "url": "" },
     "user": { "username": "artlover", "avatar": "", "name": "Grace" },
-    "like": 40,
+    "likeCount": 40,
     "share": 22,
     "createdAt": "Mon Aug 19 14:37:49 +0000 2025",
-    "commentCount": 30
+    "commentCount": 30,
+    "viewCount": 2
   },
   {
     "id": "a212d3ac",
@@ -247,10 +269,11 @@
     "body": "Weekend road trip with friends! 🚗",
     "media": { "format": "image", "url": "" },
     "user": { "username": "roadtripper", "avatar": "", "name": "Jack" },
-    "like": 32,
+    "likeCount": 32,
     "share": 18,
     "createdAt": "Wed Sep 25 17:25:37 +0000 2025",
-    "commentCount": 25
+    "commentCount": 25,
+    "viewCount": 2
   },
   {
     "id": "c66a5c48",
@@ -258,21 +281,27 @@
     "body": "Enjoying the fall foliage 🍂",
     "media": { "format": "image", "url": "" },
     "user": { "username": "falllover", "avatar": "", "name": "Nora" },
-    "like": 26,
+    "likeCount": 26,
     "share": 14,
     "createdAt": "Fri Oct 25 11:46:56 +0000 2025",
-    "commentCount": 18
+    "commentCount": 18,
+    "viewCount": 2
   },
   {
     "id": "432a6e4f",
     "userId": "a34c1a5d",
     "body": "Spooky Halloween decorations at home!",
     "media": { "format": "image", "url": "" },
-    "user": { "username": "halloweenenthusiast", "avatar": "", "name": "Avery" },
-    "like": 29,
+    "user": {
+      "username": "halloweenenthusiast",
+      "avatar": "",
+      "name": "Avery"
+    },
+    "likeCount": 29,
     "share": 16,
     "createdAt": "Sun Nov 24 14:12:19 +0000 2025",
-    "commentCount": 22
+    "commentCount": 22,
+    "viewCount": 2
   },
   {
     "id": "b35c4c2d",
@@ -280,10 +309,11 @@
     "body": "Reflecting on a great year filled with memories!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "memoriesmade", "avatar": "", "name": "Ryan" },
-    "like": 37,
+    "likeCount": 37,
     "share": 20,
     "createdAt": "Tue Dec 31 19:58:04 +0000 2025",
-    "commentCount": 28
+    "commentCount": 28,
+    "viewCount": 2
   },
   {
     "id": "a12a31c5",
@@ -291,10 +321,11 @@
     "body": "Starting the new year with a positive mindset! ✨",
     "media": { "format": "image", "url": "" },
     "user": { "username": "positivity", "avatar": "", "name": "Chloe" },
-    "like": 42,
+    "likeCount": 42,
     "share": 24,
     "createdAt": "Thu Jan 16 09:37:28 +0000 2026",
-    "commentCount": 30
+    "commentCount": 30,
+    "viewCount": 2
   },
   {
     "id": "b6f55c1a",
@@ -302,10 +333,11 @@
     "body": "Trying out some new recipes for a dinner party",
     "media": { "format": "image", "url": "" },
     "user": { "username": "foodenthusiast", "avatar": "", "name": "Max" },
-    "like": 38,
+    "likeCount": 38,
     "share": 21,
     "createdAt": "Sat Feb 29 18:20:11 +0000 2026",
-    "commentCount": 27
+    "commentCount": 27,
+    "viewCount": 2
   },
   {
     "id": "a1c1d2c8",
@@ -313,10 +345,11 @@
     "body": "Weekend hike in the snowy mountains ❄️🏔️",
     "media": { "format": "image", "url": "" },
     "user": { "username": "snowymountains", "avatar": "", "name": "Emma" },
-    "like": 31,
+    "likeCount": 31,
     "share": 17,
     "createdAt": "Tue Mar 24 12:49:35 +0000 2026",
-    "commentCount": 21
+    "commentCount": 21,
+    "viewCount": 2
   },
   {
     "id": "e6c4d23a",
@@ -324,10 +357,11 @@
     "body": "Trying my hand at gardening this spring!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "gardeningfun", "avatar": "", "name": "Aiden" },
-    "like": 35,
+    "likeCount": 35,
     "share": 19,
     "createdAt": "Thu Apr 30 14:16:48 +0000 2026",
-    "commentCount": 25
+    "commentCount": 25,
+    "viewCount": 2
   },
   {
     "id": "a5c1e4b7",
@@ -335,10 +369,11 @@
     "body": "Happy Mother's Day to all the amazing moms out there!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "momlove", "avatar": "", "name": "Sophia" },
-    "like": 48,
+    "likeCount": 48,
     "share": 27,
     "createdAt": "Sun May 10 10:05:02 +0000 2026",
-    "commentCount": 32
+    "commentCount": 32,
+    "viewCount": 2
   },
   {
     "id": "a5c1e4d5",
@@ -346,10 +381,11 @@
     "body": "Gearing up for a weekend of gaming 🎮",
     "media": { "format": "image", "url": "" },
     "user": { "username": "gamerguy", "avatar": "", "name": "Ryan" },
-    "like": 44,
+    "likeCount": 44,
     "share": 25,
     "createdAt": "Fri Jun 19 20:32:11 +0000 2026",
-    "commentCount": 30
+    "commentCount": 30,
+    "viewCount": 2
   },
   {
     "id": "d5c1a4f6",
@@ -357,10 +393,11 @@
     "body": "Enjoying a quiet day at home with a good book 📖",
     "media": { "format": "image", "url": "" },
     "user": { "username": "booklover", "avatar": "", "name": "Lily" },
-    "like": 39,
+    "likeCount": 39,
     "share": 22,
     "createdAt": "Sun Jul 26 13:41:55 +0000 2026",
-    "commentCount": 28
+    "commentCount": 28,
+    "viewCount": 2
   },
   {
     "id": "a5c1e4b7",
@@ -368,10 +405,11 @@
     "body": "Gearing up for a weekend of gaming 🎮",
     "media": { "format": "image", "url": "" },
     "user": { "username": "gamerguy", "avatar": "", "name": "Ryan" },
-    "like": 44,
+    "likeCount": 44,
     "share": 25,
     "createdAt": "Fri Jun 19 20:32:11 +0000 2026",
-    "commentCount": 30
+    "commentCount": 30,
+    "viewCount": 2
   },
   {
     "id": "d5c1a4f6",
@@ -379,10 +417,11 @@
     "body": "Enjoying a quiet day at home with a good book",
     "media": { "format": "video", "url": "" },
     "user": { "username": "booklover", "avatar": "", "name": "Lily" },
-    "like": 39,
+    "likeCount": 39,
     "share": 22,
     "createdAt": "Sun Jul 26 13:41:55 +0000 2026",
-    "commentCount": 28
+    "commentCount": 28,
+    "viewCount": 2
   },
   {
     "id": "d1c1a4a5",
@@ -390,10 +429,11 @@
     "body": "Exploring a new hobby: astronomy!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "stargazer", "avatar": "", "name": "Ethan" },
-    "like": 42,
+    "likeCount": 42,
     "share": 24,
     "createdAt": "Tue Aug 25 19:05:33 +0000 2026",
-    "commentCount": 31
+    "commentCount": 31,
+    "viewCount": 2
   },
   {
     "id": "d5c1a42c",
@@ -401,10 +441,11 @@
     "body": "Weekend getaway to the beach!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "beachlover", "avatar": "", "name": "Mia" },
-    "like": 46,
+    "likeCount": 46,
     "share": 26,
     "createdAt": "Sat Sep 26 15:28:41 +0000 2026",
-    "commentCount": 33
+    "commentCount": 33,
+    "viewCount": 2
   },
   {
     "id": "a1c1f4b5",
@@ -412,10 +453,11 @@
     "body": "Happy Thanksgiving to all!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "thanksgivingjoy", "avatar": "", "name": "Noah" },
-    "like": 50,
+    "likeCount": 50,
     "share": 28,
     "createdAt": "Thu Nov 26 11:09:27 +0000 2026",
-    "commentCount": 35
+    "commentCount": 35,
+    "viewCount": 2
   },
   {
     "id": "a5c1f6d2",
@@ -423,21 +465,27 @@
     "body": "Cozy winter evenings by the fireplace ",
     "media": { "format": "image", "url": "" },
     "user": { "username": "cozytimes", "avatar": "", "name": "Olivia" },
-    "like": 48,
+    "likeCount": 48,
     "share": 27,
     "createdAt": "Tue Dec 22 18:14:45 +0000 2026",
-    "commentCount": 34
+    "commentCount": 34,
+    "viewCount": 2
   },
   {
     "id": "a5c1f4b7",
     "userId": "c7cc1a9b",
     "body": "Welcoming the new year with fireworks!",
     "media": { "format": "image", "url": "" },
-    "user": { "username": "newyearcelebrations", "avatar": "", "name": "Lucas" },
-    "like": 52,
+    "user": {
+      "username": "newyearcelebrations",
+      "avatar": "",
+      "name": "Lucas"
+    },
+    "likeCount": 52,
     "share": 30,
     "createdAt": "Fri Jan 01 00:01:01 +0000 2027",
-    "commentCount": 36
+    "commentCount": 36,
+    "viewCount": 2
   },
   {
     "id": "a2c1f4b5",
@@ -445,10 +493,11 @@
     "body": "Trying out skiing for the first time!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "skiingadventures", "avatar": "", "name": "Aiden" },
-    "like": 49,
+    "likeCount": 49,
     "share": 28,
     "createdAt": "Sat Feb 13 13:58:21 +0000 2027",
-    "commentCount": 35
+    "commentCount": 35,
+    "viewCount": 2
   },
   {
     "id": "a1c1f6d2",
@@ -456,10 +505,11 @@
     "body": "Weekend road trip with friends!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "roadtripper", "avatar": "", "name": "Nora" },
-    "like": 46,
+    "likeCount": 46,
     "share": 26,
     "createdAt": "Sun Mar 28 11:36:54 +0000 2027",
-    "commentCount": 33
+    "commentCount": 33,
+    "viewCount": 2
   },
   {
     "id": "a5c1f8b7",
@@ -467,10 +517,11 @@
     "body": "Exploring the city's art galleries 🎨",
     "media": { "format": "image", "url": "" },
     "user": { "username": "artlover", "avatar": "", "name": "Sophie" },
-    "like": 45,
+    "likeCount": 45,
     "share": 25,
     "createdAt": "Wed Apr 21 16:22:37 +0000 2027",
-    "commentCount": 32
+    "commentCount": 32,
+    "viewCount": 2
   },
   {
     "id": "a5c1f9b5",
@@ -478,10 +529,11 @@
     "body": "Trying out yoga for a healthier lifestyle 🧘",
     "media": { "format": "image", "url": "" },
     "user": { "username": "yogalife", "avatar": "", "name": "Ella" },
-    "like": 53,
+    "likeCount": 53,
     "share": 30,
     "createdAt": "Fri May 14 08:47:19 +0000 2027",
-    "commentCount": 37
+    "commentCount": 37,
+    "viewCount": 2
   },
   {
     "id": "a1c1f5d2",
@@ -489,10 +541,11 @@
     "body": "Weekend camping trip with friends!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "campingadventures", "avatar": "", "name": "Aiden" },
-    "like": 48,
+    "likeCount": 48,
     "share": 27,
     "createdAt": "Sun Jun 27 14:56:05 +0000 2027",
-    "commentCount": 34
+    "commentCount": 34,
+    "viewCount": 2
   },
   {
     "id": "a5c1f7d2",
@@ -500,10 +553,11 @@
     "body": "Celebrating my birthday with loved ones!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "birthdaycelebrations", "avatar": "", "name": "Mia" },
-    "like": 50,
+    "likeCount": 50,
     "share": 28,
     "createdAt": "Tue Jul 20 09:32:55 +0000 2027",
-    "commentCount": 36
+    "commentCount": 36,
+    "viewCount": 2
   },
   {
     "id": "a1c1f7d2",
@@ -511,10 +565,11 @@
     "body": "Weekend beach getaway!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "beachescape", "avatar": "", "name": "Liam" },
-    "like": 47,
+    "likeCount": 47,
     "share": 27,
     "createdAt": "Fri Aug 20 13:18:42 +0000 2027",
-    "commentCount": 33
+    "commentCount": 33,
+    "viewCount": 2
   },
   {
     "id": "a5c1f8d2",
@@ -522,10 +577,11 @@
     "body": "Trying out rock climbing for the first time!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "climbingadventures", "avatar": "", "name": "Ethan" },
-    "like": 51,
+    "likeCount": 51,
     "share": 29,
     "createdAt": "Mon Sep 27 17:44:19 +0000 2027",
-    "commentCount": 35
+    "commentCount": 35,
+    "viewCount": 2
   },
   {
     "id": "a1c1f8d2",
@@ -533,10 +589,11 @@
     "body": "Cozy fall evenings by the fire",
     "media": { "format": "image", "url": "" },
     "user": { "username": "fallvibes", "avatar": "", "name": "Sophie" },
-    "like": 49,
+    "likeCount": 49,
     "share": 28,
     "createdAt": "Wed Oct 27 19:52:02 +0000 2027",
-    "commentCount": 34
+    "commentCount": 34,
+    "viewCount": 2
   },
   {
     "id": "a5c1f9d5",
@@ -544,10 +601,11 @@
     "body": "Spreading holiday cheer with decorations!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "holidayjoy", "avatar": "", "name": "Olivia" },
-    "like": 53,
+    "likeCount": 53,
     "share": 30,
     "createdAt": "Sat Nov 27 14:09:25 +0000 2027",
-    "commentCount": 37
+    "commentCount": 37,
+    "viewCount": 2
   },
   {
     "id": "a1c1f9d5",
@@ -555,10 +613,11 @@
     "body": "Enjoying the first snowfall of the season!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "winterwonderland", "avatar": "", "name": "Lucas" },
-    "like": 50,
+    "likeCount": 50,
     "share": 28,
     "createdAt": "Thu Dec 23 12:18:37 +0000 2027",
-    "commentCount": 34
+    "commentCount": 34,
+    "viewCount": 2
   },
   {
     "id": "a5c1fad5",
@@ -566,9 +625,10 @@
     "body": "Welcoming the new year with friends and fireworks!",
     "media": { "format": "image", "url": "" },
     "user": { "username": "newyearcelebrations", "avatar": "", "name": "Emma" },
-    "like": 52,
+    "likeCount": 52,
     "share": 29,
     "createdAt": "Fri Jan 01 00:01:01 +0000 2028",
-    "commentCount": 35
+    "commentCount": 35,
+    "viewCount": 2
   }
 ]
