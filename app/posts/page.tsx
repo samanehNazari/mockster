@@ -35,6 +35,9 @@ export default function Posts() {
           username={post.user.username}
           createdDate={post.createdAt}
           description={post.body}
+          likeCount={post.likeCount}
+          commentCount={post.commentCount}
+          viewCount={post.viewCount}
         />
       ))}
     </section>
